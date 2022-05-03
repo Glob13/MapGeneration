@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapCreationGUI", "MapCreationGUI\MapCreationGUI.csproj", "{FA33EE04-372D-4113-9DE1-AEAA9E001CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA33EE04-372D-4113-9DE1-AEAA9E001CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA33EE04-372D-4113-9DE1-AEAA9E001CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA33EE04-372D-4113-9DE1-AEAA9E001CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA33EE04-372D-4113-9DE1-AEAA9E001CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0F6481-0F41-471F-9FE8-E208E55B852D}
+	EndGlobalSection
+EndGlobal

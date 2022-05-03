@@ -1,0 +1,17 @@
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\bin\Debug\netcoreapp3.1\MapCreationGUI.exe
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\bin\Debug\netcoreapp3.1\MapCreationGUI.deps.json
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\bin\Debug\netcoreapp3.1\MapCreationGUI.runtimeconfig.json
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\bin\Debug\netcoreapp3.1\MapCreationGUI.runtimeconfig.dev.json
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\bin\Debug\netcoreapp3.1\MapCreationGUI.dll
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\bin\Debug\netcoreapp3.1\MapCreationGUI.pdb
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.csproj.AssemblyReference.cache
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreation.Form1.resources
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.Properties.Resources.resources
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.csproj.GenerateResource.cache
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.AssemblyInfoInputs.cache
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.AssemblyInfo.cs
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.csproj.CoreCompileInputs.cache
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.dll
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.pdb
+C:\Users\louis\Documents\Computer Science\NEA\MapCreationGUI\MapCreationGUI\obj\Debug\netcoreapp3.1\MapCreationGUI.genruntimeconfig.cache
